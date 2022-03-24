@@ -1,5 +1,10 @@
 /* SECTION LOIC */
-p{
+#sectionLoic > div > p{
     color: red;
     font-size: 1.2rem;
+}
+/* SECTION NATAN */
+#sectionnatan > div > p{
+    color: yellow;
+    font-size: 1.5rem;
 }
